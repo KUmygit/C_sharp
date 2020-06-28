@@ -1,0 +1,11 @@
+C:\Users\kyung\Desktop\C#_Project\MyDrawingProject\MyDrawingProject\bin\Debug\MyDrawingProject.exe.config
+C:\Users\kyung\Desktop\C#_Project\MyDrawingProject\MyDrawingProject\bin\Debug\MyDrawingProject.exe
+C:\Users\kyung\Desktop\C#_Project\MyDrawingProject\MyDrawingProject\bin\Debug\MyDrawingProject.pdb
+C:\Users\kyung\Desktop\C#_Project\MyDrawingProject\MyDrawingProject\obj\Debug\MyDrawingProject.csprojAssemblyReference.cache
+C:\Users\kyung\Desktop\C#_Project\MyDrawingProject\MyDrawingProject\obj\Debug\MyDrawingProject.baseForm.resources
+C:\Users\kyung\Desktop\C#_Project\MyDrawingProject\MyDrawingProject\obj\Debug\MyDrawingProject.Properties.Resources.resources
+C:\Users\kyung\Desktop\C#_Project\MyDrawingProject\MyDrawingProject\obj\Debug\MyDrawingProject.csproj.GenerateResource.cache
+C:\Users\kyung\Desktop\C#_Project\MyDrawingProject\MyDrawingProject\obj\Debug\MyDrawingProject.csproj.CoreCompileInputs.cache
+C:\Users\kyung\Desktop\C#_Project\MyDrawingProject\MyDrawingProject\obj\Debug\MyDrawingProject.exe
+C:\Users\kyung\Desktop\C#_Project\MyDrawingProject\MyDrawingProject\obj\Debug\MyDrawingProject.pdb
+C:\Users\kyung\Desktop\C#_Project\MyDrawingProject\MyDrawingProject\obj\Debug\MyDrawingProject.Form2.resources
